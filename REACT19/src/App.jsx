@@ -3,6 +3,12 @@
 import Netflix, {Footer} from './components/Netflix'
 import { Lifting } from './components/Lifting'
 import ToggleSwitch from './components/ToggleSwitch'
+import Effect from './components/Effect'
+import ChallengeEffect from './components/ChallengeEffect'
+import Youtubesub from './components/Youtubesub'
+import FetchAPI from './FetchAPI'
+import Pokemon from './Pokemon'
+import UseRef from './UseRef'
 
   const App = () => {
     return (
@@ -14,7 +20,17 @@ import ToggleSwitch from './components/ToggleSwitch'
 
          {/* <Lifting/> */}
 
-         <ToggleSwitch/>
+         {/* <ToggleSwitch/> */}
+
+         {/* <Effect/> */}
+
+         {/* <Youtubesub/> */}
+
+         {/* <FetchAPI/> */}
+
+         {/* <Pokemon/> */}
+
+         <UseRef/>
       </section>
     )
   }
