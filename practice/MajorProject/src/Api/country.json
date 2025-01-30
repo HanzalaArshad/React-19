@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Pakistan",
+    "population": 240485658,
+    "interestingFacts": "Home to the world's second-highest mountain, K2, and one of the largest producers of mangoes.",
+    "capital": "Islamabad",
+    "officialLanguage": "Urdu",
+    "currency": "Pakistani Rupee"
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "population": 125360000,
+    "interestingFacts": "Known for its cherry blossoms, Japan is home to more than 6,800 islands.",
+    "capital": "Tokyo",
+    "officialLanguage": "Japanese",
+    "currency": "Japanese Yen"
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "population": 216994000,
+    "interestingFacts": "Holds the title for the largest coffee producer in the world for over 150 years.",
+    "capital": "Brasília",
+    "officialLanguage": "Portuguese",
+    "currency": "Brazilian Real"
+  },
+  {
+    "id": 4,
+    "name": "Norway",
+    "population": 5444192,
+    "interestingFacts": "Known for its fjords and as the 'Land of the Midnight Sun,' where the sun never sets in summer.",
+    "capital": "Oslo",
+    "officialLanguage": "Norwegian",
+    "currency": "Norwegian Krone"
+  },
+  {
+    "id": 5,
+    "name": "Canada",
+    "population": 38429000,
+    "interestingFacts": "Has the longest coastline in the world and over 60% of the world's lakes.",
+    "capital": "Ottawa",
+    "officialLanguage": "English and French",
+    "currency": "Canadian Dollar"
+  },
+  {
+    "id": 6,
+    "name": "Australia",
+    "population": 26748592,
+    "interestingFacts": "Home to the Great Barrier Reef and more kangaroos than people.",
+    "capital": "Canberra",
+    "officialLanguage": "English",
+    "currency": "Australian Dollar"
+  },
+  {
+    "id": 7,
+    "name": "Egypt",
+    "population": 110990103,
+    "interestingFacts": "Known for its ancient civilization and iconic pyramids, including the Great Pyramid of Giza.",
+    "capital": "Cairo",
+    "officialLanguage": "Arabic",
+    "currency": "Egyptian Pound"
+  },
+  {
+    "id": 8,
+    "name": "Italy",
+    "population": 58828000,
+    "interestingFacts": "Famous for its art, architecture, and cuisine, Italy has more UNESCO World Heritage sites than any other country.",
+    "capital": "Rome",
+    "officialLanguage": "Italian",
+    "currency": "Euro"
+  }
+]

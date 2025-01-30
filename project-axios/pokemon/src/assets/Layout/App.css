@@ -1,0 +1,47 @@
+.fancy-spinner-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  background: linear-gradient(135deg, #1e1e2f, #323248); /* Smooth gradient background */
+  color: #fff;
+}
+
+
+.fancy-spinner {
+  width: 60px;
+  height: 60px;
+  border: 6px solid rgba(255, 255, 255, 0.2); /* Light border */
+  border-top: 6px solid #00d4ff; /* Highlighted top border */
+  border-radius: 50%;
+  animation: spin 1.2s linear infinite;
+  box-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff; /* Glowing effect */
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-message {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  text-shadow: 0 0 10px #00d4ff;
+  animation: fadeIn 2s infinite alternate;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0.7;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+

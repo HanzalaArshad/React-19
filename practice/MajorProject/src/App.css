@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.custom-toggler {
+  border: none; /* Removes the border */
+  outline: none; /* Removes the focus outline */
+  box-shadow: none; /* Removes any box shadow */
+  background-color: transparent; /* Makes background transparent */
+}

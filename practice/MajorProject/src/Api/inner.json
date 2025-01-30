@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Hyderabad, Sindh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+92-346744832"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@grands.com"
+  }
+]
